@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Achille22-hue
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Salut, je suis Achille 👋
 
-<!---
-Achille22-hue/Achille22-hue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Développeur Full Stack.
+
+- 💼 Actuellement chez KAMGOKO
+- 🌱 Toujours en train d'apprendre de nouvelles technos
+- 📫 Me contacter : via GitHub
